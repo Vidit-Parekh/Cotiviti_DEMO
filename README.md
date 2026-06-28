@@ -122,8 +122,7 @@ ClinicalAIInsight/
 |   |   |-- Clinical_NLP_Presentation_Vidit_Parekh.pptx
 |   |-- report/
 |   |   |-- Clinical_NLP_Report_Vidit_Parekh.docx
-|   |-- recording/
-|       |-- demo_recording.mp4
+|   
 |
 |-- data/
 |   |-- sample_record.txt   # Sample clinical note for demo
@@ -147,7 +146,6 @@ ClinicalAIInsight/
     |-- report/
         |-- generator.py    # Exportable report generation
 ```
-
 ---
 
 ## Strategic Context
