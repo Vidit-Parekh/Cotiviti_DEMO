@@ -165,6 +165,8 @@ The platform directly illustrates three strategic recommendations from the accom
 ClinicalAI Insight is a prototype for demonstration purposes only. All outputs including clinical summaries, entity extractions, ICD-10 code suggestions, CPT code suggestions, and payment integrity observations are AI-generated illustrations. They are not validated medical outputs and must not be used for any clinical, billing, coding, or payment integrity decisions. All suggestions require qualified human review before any operational use.
 
 ---
+Demo: https://drive.google.com/file/d/12FX_t9cj9ODsLxZSnflqJbc3xwpz6rm2/view?usp=sharing
+---
 
 ## Author
 
