@@ -1,0 +1,17 @@
+# ─────────────────────────────────────────────
+# ClinicalAI Insight — Python Dependencies
+# Vidit Parekh | Cotiviti Intern Assessment
+# ─────────────────────────────────────────────
+
+# Web UI
+streamlit>=1.35.0
+
+# PDF ingestion and OCR
+pymupdf>=1.24.0
+
+# LLM backend — Groq free API (primary)
+# Get a free key at: https://console.groq.com
+groq>=0.9.0
+
+# HTTP client used for Ollama local fallback
+requests>=2.31.0

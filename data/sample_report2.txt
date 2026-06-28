@@ -1,0 +1,138 @@
+NEUROLOGY CONSULTATION NOTE
+
+Patient: Mrs. Eleanor K. Thornton
+MRN: 5519284
+DOB: September 3, 1947
+Age: 77 years
+Sex: Female
+Date of Consultation: February 3, 2025
+Requesting Service: Internal Medicine
+Consulting Physician: Dr. Marcus J. Webb, MD, PhD (Neurology)
+Reason for Consultation: New-onset expressive aphasia and right-sided weakness
+
+CHIEF COMPLAINT:
+Sudden onset speech difficulty and right arm weakness, noted by family at approximately
+7:30 AM this morning.
+
+HISTORY OF PRESENT ILLNESS:
+Mrs. Thornton is a 77-year-old right-handed female with a past medical history of
+atrial fibrillation (on anticoagulation), hypertension, and hyperlipidemia who was
+brought to the ED by her daughter after being found unable to speak clearly and
+with notable right arm drift at approximately 7:30 AM today.
+
+Per the daughter, Mrs. Thornton was last seen normal at 11:00 PM the prior evening.
+She was found in her bedroom this morning struggling to form words and unable to
+lift her right arm normally. She denied (by nodding) headache, vision changes, or
+loss of consciousness. She had no history of prior stroke or TIA.
+
+Last known well: 11:00 PM February 2, 2025
+Time of ED arrival: 08:15 AM February 3, 2025
+
+NIHSS SCORE ON ARRIVAL: 11
+- Level of consciousness: 0
+- LOC questions: 1 (unable to state month)
+- LOC commands: 1 (unable to follow 2-step command)
+- Best gaze: 0
+- Visual fields: 0
+- Facial palsy: 2 (lower facial droop right)
+- Left arm motor: 0
+- Right arm motor: 3 (no effort against gravity)
+- Left leg motor: 0
+- Right leg motor: 1 (drifts before 5 seconds)
+- Limb ataxia: 0
+- Sensory: 1 (mild diminished right)
+- Best language: 2 (severe aphasia)
+- Dysarthria: 1 (mild)
+- Extinction/inattention: 0
+
+PAST MEDICAL HISTORY:
+1. Atrial fibrillation, paroxysmal (diagnosed 2019)
+2. Hypertension (diagnosed 2005)
+3. Hyperlipidemia (diagnosed 2008)
+4. Osteoporosis
+5. Gastroesophageal reflux disease (GERD)
+
+PAST SURGICAL HISTORY:
+1. Right total knee replacement (2018)
+2. Cholecystectomy (2001)
+
+MEDICATIONS ON ADMISSION:
+1. Apixaban (Eliquis) 5 mg PO BID (anticoagulation for AFib)
+2. Metoprolol succinate 50 mg PO daily
+3. Amlodipine 10 mg PO daily
+4. Rosuvastatin 20 mg PO nightly
+5. Omeprazole 20 mg PO daily
+6. Calcium carbonate 600 mg PO BID
+7. Vitamin D3 1000 IU PO daily
+
+ALLERGIES: Sulfa drugs (rash), Codeine (nausea/vomiting)
+
+SOCIAL HISTORY:
+Lives alone in independent living community. Widowed. Daughter is primary caregiver.
+Non-smoker. No alcohol use. Retired schoolteacher.
+
+PHYSICAL EXAMINATION:
+Vital Signs: BP 186/94, HR 88 (irregularly irregular), RR 16, Temp 36.8C, SpO2 97% on RA
+
+General: Elderly female, alert, appears anxious, cooperative with exam.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+
+NEUROLOGICAL EXAMINATION:
+Mental Status: Alert, oriented to person only. Severe non-fluent aphasia with minimal
+verbal output. Comprehension impaired. Unable to repeat phrases. No neglect.
+
+Cranial Nerves:
+- CN II: Visual fields appear intact to confrontation bilaterally.
+- CN III/IV/VI: Full extraocular movements, no nystagmus.
+- CN VII: Right lower facial droop present.
+- CN VIII: Grossly intact.
+- CN IX/X: Palate elevates symmetrically.
+- CN XI/XII: Normal.
+
+Motor: Right arm 2/5 proximally and 1/5 distally. Right leg 3/5 throughout.
+Left arm and leg 5/5. Tone mildly increased right side.
+Sensory: Diminished to light touch right arm and leg.
+Reflexes: 3+ right biceps, brachioradialis, knee, ankle. 2+ on left. Right Babinski present.
+Coordination: Unable to assess right side. Left side intact.
+Gait: Unable to assess.
+
+INVESTIGATIONS:
+CT Head (non-contrast, 08:30 AM): No acute hemorrhage. No established infarct.
+CT Angiography Head and Neck: Occlusion of left M2 segment of MCA.
+MRI Brain (DWI): Acute ischemic infarct left MCA territory, predominantly insular cortex
+and posterior frontal lobe. Estimated volume 35 mL.
+ECG: Atrial fibrillation, rate 88, no acute ST changes.
+INR: 1.2 (subtherapeutic, last dose Apixaban reported as 18 hours ago per daughter).
+
+DIAGNOSIS:
+1. Acute ischemic stroke, left MCA territory (ICD-10: I63.512)
+2. Expressive aphasia secondary to stroke (ICD-10: R47.01)
+3. Right hemiparesis secondary to stroke (ICD-10: G81.91)
+4. Atrial fibrillation with subtherapeutic anticoagulation (ICD-10: I48.19)
+
+IMPRESSION AND PLAN:
+Mrs. Thornton presents with acute left MCA ischemic stroke in the setting of atrial
+fibrillation with subtherapeutic anticoagulation. Given the time last known well of
+11 PM and presentation at 8:15 AM, she is outside the 4.5-hour tPA window.
+Mechanical thrombectomy was evaluated but CTP imaging shows limited penumbra;
+neurosurgery and neurointerventional teams agree patient is not a thrombectomy candidate.
+
+Plan:
+1. Admit to Neuro ICU for close monitoring.
+2. Aspirin 325 mg PO loading dose, then 81 mg daily (antiplatelet while anticoagulation held).
+3. Hold Apixaban for 48-72 hours post-stroke, then reassess with neurology.
+4. Blood pressure permissive to 220/120 in first 24 hours, then target below 180/105.
+5. Continuous cardiac monitoring for AFib burden.
+6. Speech therapy, occupational therapy, and physical therapy consults placed.
+7. Dysphagia screen prior to any oral intake.
+8. DVT prophylaxis with sequential compression devices.
+9. Repeat MRI brain in 48 hours.
+10. Stroke risk factor counseling and family education initiated.
+
+Prognosis discussed with daughter. Guarded outlook for full recovery given stroke volume
+and severity of aphasia. Rehabilitation potential to be reassessed after acute phase.
+
+Consulting Physician: Dr. Marcus J. Webb, MD, PhD
+Neurology Service
+Date/Time: February 3, 2025 | 10:45 AM

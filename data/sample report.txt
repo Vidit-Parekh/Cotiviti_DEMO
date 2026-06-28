@@ -1,0 +1,115 @@
+DISCHARGE SUMMARY
+
+Patient Name: James R. Mitchell
+Date of Birth: March 14, 1958
+Age: 66 years old
+MRN: 7842391
+Sex: Male
+Admission Date: January 8, 2025
+Discharge Date: January 14, 2025
+Attending Physician: Dr. Sarah L. Patel, MD, FACC
+Department: Cardiology
+
+ADMISSION DIAGNOSIS:
+Acute ST-elevation myocardial infarction (STEMI), anterior wall
+
+DISCHARGE DIAGNOSES:
+1. Acute anterior STEMI (ICD-10: I21.09)
+2. Coronary artery disease, three-vessel (ICD-10: I25.10)
+3. Systolic heart failure, reduced ejection fraction (HFrEF) (ICD-10: I50.20)
+4. Type 2 Diabetes Mellitus, uncontrolled (ICD-10: E11.65)
+5. Hypertension (ICD-10: I10)
+6. Hyperlipidemia (ICD-10: E78.5)
+7. Chronic kidney disease, Stage 3a (ICD-10: N18.31)
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Mitchell is a 66-year-old male with a significant past medical history of hypertension,
+hyperlipidemia, and Type 2 Diabetes who presented to the Emergency Department on January 8,
+2025 at 02:14 AM with a 3-hour history of severe crushing substernal chest pain radiating
+to his left arm and jaw, accompanied by diaphoresis, nausea, and dyspnea.
+
+Initial ECG demonstrated 3mm ST-elevations in leads V1 through V4 with reciprocal changes
+in the inferior leads, consistent with anterior STEMI. Troponin I on admission was critically
+elevated at 48.2 ng/mL (normal less than 0.04 ng/mL). The patient was immediately activated
+for primary PCI.
+
+PROCEDURES PERFORMED:
+1. Emergency coronary angiography (CPT: 93454)
+2. Percutaneous coronary intervention with drug-eluting stent placement, LAD (CPT: 92928)
+3. Transthoracic echocardiogram (CPT: 93306)
+4. Continuous cardiac telemetry monitoring
+5. Insertion of arterial line, radial (CPT: 36620)
+
+CARDIAC CATHETERIZATION FINDINGS:
+Left main: No significant disease
+LAD: 100% occlusion at proximal segment, culprit lesion
+LCX: 60% stenosis at obtuse marginal
+RCA: 70% stenosis at mid segment
+LVEF post-intervention: 35% (severely reduced)
+
+A 3.5 x 28mm Xience Alpine drug-eluting stent was deployed in the proximal LAD with TIMI 3
+flow restored. Door-to-balloon time: 47 minutes.
+
+MEDICATIONS ON ADMISSION:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Atorvastatin 40 mg PO nightly
+4. Amlodipine 5 mg PO daily
+5. Aspirin 81 mg PO daily
+
+MEDICATIONS AT DISCHARGE:
+1. Aspirin 81 mg PO daily (indefinitely)
+2. Ticagrelor (Brilinta) 90 mg PO BID x 12 months (dual antiplatelet therapy)
+3. Atorvastatin 80 mg PO nightly (intensified)
+4. Carvedilol 6.25 mg PO BID (new, for HFrEF)
+5. Lisinopril 5 mg PO daily (dose reduced due to CKD)
+6. Furosemide 20 mg PO daily (new, for fluid management)
+7. Eplerenone 25 mg PO daily (new, for HFrEF post-MI)
+8. Metformin HELD (held due to reduced EF and CKD, endocrinology follow-up arranged)
+9. Insulin glargine 10 units subcutaneous nightly (new, for diabetes management)
+10. Nitroglycerin 0.4 mg sublingual PRN chest pain
+
+HOSPITAL COURSE:
+Mr. Mitchell underwent successful primary PCI as described above. Post-procedure he was
+admitted to the Cardiac Care Unit for close monitoring. Transthoracic echocardiogram on
+day 2 confirmed anterior wall hypokinesis with severely reduced LVEF of 35%, consistent
+with ischemic cardiomyopathy. Cardiology and heart failure teams were co-managing.
+
+He developed mild acute kidney injury on day 3 (creatinine peak 2.1 mg/dL from baseline
+1.4 mg/dL), attributed to contrast nephropathy and reduced cardiac output. Nephrology was
+consulted. Creatinine trended down to 1.7 mg/dL by discharge.
+
+His diabetes was managed with insulin during hospitalization as Metformin was held.
+Endocrinology was consulted and recommended continued insulin at discharge with close
+outpatient follow-up. HbA1c was found to be 9.2%, indicating poor long-term glycemic control.
+
+He was ambulating independently with physical therapy by day 4. Cardiac rehabilitation
+referral was placed. Patient and family education regarding STEMI, heart failure, and
+medication compliance was completed.
+
+RELEVANT LABORATORY RESULTS:
+Troponin I (admission): 48.2 ng/mL (critically elevated)
+Troponin I (peak, 24h): 124.7 ng/mL
+BNP: 1840 pg/mL (severely elevated)
+HbA1c: 9.2%
+Creatinine (admission): 1.4 mg/dL
+Creatinine (peak): 2.1 mg/dL
+Creatinine (discharge): 1.7 mg/dL
+eGFR (discharge): 42 mL/min/1.73m2
+LDL cholesterol: 148 mg/dL
+Hemoglobin: 11.8 g/dL (mild anemia)
+
+FOLLOW-UP PLAN:
+1. Cardiology clinic in 1 week (Dr. Patel)
+2. Heart Failure clinic in 2 weeks
+3. Nephrology in 2 weeks (CKD and AKI follow-up)
+4. Endocrinology in 3 weeks (diabetes management)
+5. Repeat echocardiogram in 6 weeks (reassess LVEF)
+6. Cardiac rehabilitation program enrollment
+7. Repeat cardiac catheterization in 4 weeks for staged PCI of LCX and RCA lesions
+
+DISCHARGE CONDITION: Stable, improved
+DISCHARGE DISPOSITION: Home with visiting nurse services
+
+Attending Physician Signature: Dr. Sarah L. Patel, MD, FACC
+Date: January 14, 2025

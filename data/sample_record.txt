@@ -1,0 +1,42 @@
+DISCHARGE SUMMARY
+
+Patient: Jane Doe | DOB: 03/14/1968 | MRN: 00492817
+Attending Physician: Dr. Michael Torres, MD
+Admission Date: 2024-11-10 | Discharge Date: 2024-11-14
+
+CHIEF COMPLAINT:
+Shortness of breath and chest tightness for 3 days.
+
+HISTORY OF PRESENT ILLNESS:
+56-year-old female with a history of Type 2 Diabetes Mellitus, Hypertension, and Stage 3
+Chronic Kidney Disease presenting with progressive dyspnea on exertion and bilateral lower
+extremity edema. She reports 8 lb weight gain over the past week. Denied fever, chills, or
+cough. No recent travel.
+
+MEDICATIONS ON ADMISSION:
+1. Metformin 500 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Atorvastatin 40 mg PO nightly
+4. Furosemide 20 mg PO daily
+
+ASSESSMENT AND PLAN:
+Primary Diagnosis: Acute decompensated heart failure (ICD-10: I50.9)
+Secondary: Type 2 Diabetes Mellitus without complications (ICD-10: E11.9)
+           Hypertension (ICD-10: I10)
+           Chronic Kidney Disease, Stage 3 (ICD-10: N18.3)
+
+Plan:
+- IV Furosemide 40 mg BID for diuresis
+- Daily weights and strict I/O monitoring
+- Echocardiogram ordered
+- Nephrology consult placed
+- Resume home medications at discharge with Furosemide increased to 40 mg daily
+- Follow-up with cardiology in 2 weeks
+
+PROCEDURES PERFORMED:
+- Chest X-Ray (CPT: 71046)
+- Transthoracic Echocardiogram (CPT: 93306)
+- Basic Metabolic Panel x3 (CPT: 80048)
+
+DISCHARGE CONDITION: Stable, improved
+DISCHARGE DISPOSITION: Home with outpatient follow-up
